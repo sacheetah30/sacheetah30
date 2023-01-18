@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sacheetah30
 - 👀 I’m interested in coding
-- 🌱 I’m currently pursuing my bachelors in csit
-- 💞️ I’m looking to collaborate and volunteer on your projrcts
+- 🌱 I’m currently pursuing my bachelors 
+- 💞️ I’m willing to volunteer on your projrcts
 - 📫 How to reach me sachitabhandari9@gmail.com
 
 <!---
