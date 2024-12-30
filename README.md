@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sacheetah30
-- 👀 I’m interested in coding
-- 🌱 I’m currently pursuing my bachelors 
-- 💞️ I’m willing to volunteer on your projrcts
-- 📫 How to reach me sachitabhandari9@gmail.com
+
 
 <!---
 sacheetah30/sacheetah30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
